@@ -298,17 +298,6 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-Choose one based on your preference:
-
-- **MIT** (simple and permissive)
-- **Apache‑2.0** (also permissive, includes patent grant)
-
-If you tell me which one you want, I can generate the `LICENSE` file too.
-
----
-
 ## 🙏 Acknowledgements
 
 - Meta NLLB‑200 model (`facebook/nllb-200-distilled-600M`)
