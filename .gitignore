@@ -1,0 +1,59 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Model / cache (Hugging Face, Torch, Transformers)
+# -------------------------
+.cache/
+huggingface/
+HF_HOME/
+**/.cache/huggingface/
+**/.cache/torch/
+**/.cache/transformers/
+**/torch_cache/
+
+# If you set a custom cache directory like D:\hf_cache and keep it inside repo
+hf_cache/
+
+# -------------------------
+# Output artifacts
+# -------------------------
+output*.pptx
+translated*.pptx
+*.tmp
+*.bak
+*.swp

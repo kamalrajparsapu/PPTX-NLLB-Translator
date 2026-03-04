@@ -1,0 +1,7 @@
+python-pptx
+transformers
+torch
+sentencepiece
+accelerate
+tqdm
+indic-transliteration
